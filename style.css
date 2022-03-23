@@ -1,0 +1,159 @@
+html, body{
+    
+    box-sizing: var(-100px);
+    
+    
+  overflow-x: hidden; /* Hide horizontal scrollbar */
+    background-color: rgb(116, 58, 35);
+}
+
+.rectangle{
+    height: 200px;
+    block-size:130px;
+  position: relative;
+    ;
+    font-size: 90px;
+    text-align: left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:rgb(116, 58, 35);
+
+    margin-top: -8px;
+    background-color:rgb(255, 255, 255)
+}
+.number{
+    position: relative;
+    top: -100px;
+    left: 800px;
+    font-style: italic;
+    font-size: 40px;
+    margin-left: 10%;
+}
+
+h2{
+    font-size: large;
+    font-style: italic;
+    box-sizing:border-box;
+    
+    text-align:center;
+    width: 101%;
+    background-color: rgb(252, 242, 229);
+}
+
+.photo{
+    position: relative;
+    
+}
+.textphoto{
+    position: absolute;
+    left: 100px;
+    bottom:300px;
+    block-size: 780px;
+    width: 500px;
+    border-radius: 25px;
+  border: 2px solid ;
+    background-color:antiquewhite;
+    text-align: center;
+    font-size: 35px;
+    color:rgb(83, 60, 34);
+    
+}
+
+.contact{
+    position: absolute;
+    left: 150%;
+    top: -2%;
+    block-size: 250px;
+    border-radius: 25px;
+  border: 2px solid ;
+    width: 410px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: antiquewhite;
+
+
+}
+
+.info{
+    position: absolute;
+    block-size: 100px;
+    top:50%;
+    border-radius: 25px;
+  border: 2px solid ;
+    width: 1300px;
+    top: 120%;
+    font-size: 19px;
+    background-color: antiquewhite;
+
+}
+
+.container {
+    position: relative;
+    padding: 15px;
+    border-radius: 20%;
+    bottom: 480px;
+    left: 195%;
+  width: 340px;
+  height: 290px;
+  background-color: antiquewhite;
+  
+}
+.imga{
+    border-radius: 17%;
+}
+  
+.bathroom{
+    position: relative;
+    padding: 15px;
+    border-radius: 20%;
+    bottom: 800px;
+    left: 115%;
+    width: 340px;
+  height: 290px;
+  background-color: antiquewhite;
+}
+.bathga{
+    border-radius: 17%;
+}
+
+.toilet{
+    position: relative;
+    padding: 15px;
+    border-radius: 20%;
+    bottom: 809px;
+    left: 195%;
+  width: 340px;
+  height: 290px;
+  background-color: antiquewhite;
+
+}
+
+.toilga{
+border-radius: 17%;
+}
+
+.heating{
+    position: relative;
+    padding: 15px;
+    border-radius: 20%;
+    bottom: 1130px;
+    left: 115%;
+    width: 340px;
+  height: 290px;
+  background-color: antiquewhite;
+    
+}
+
+.heatga{
+    border-radius: 17%;
+}
+
+.moi{
+    position:relative;
+    text-align: center;
+    color: darkgrey;
+    bottom: 20px;
+    height: 20px;
+    background-color: antiquewhite;
+    
+
+
+}
